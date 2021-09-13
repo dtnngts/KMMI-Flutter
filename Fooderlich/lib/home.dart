@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'screens/explore_screen.dart';
 import 'screens/recipes_screen.dart';
 import 'screens/grocery_screen.dart';
-import 'components/custom_search_delgates.dart';
+import 'components/custom_search.dart';
 
 class Home extends StatefulWidget {
   const Home({Key key}) : super(key: key);
